@@ -1,0 +1,24 @@
+{
+  "name": "w9d1-staticserverapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonamarcu2/w9d1-StaticServerApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonamarcu2/w9d1-StaticServerApp/issues"
+  },
+  "homepage": "https://github.com/simonamarcu2/w9d1-StaticServerApp#readme",
+  "dependencies": {
+    "dotnet": "^1.1.4",
+    "express": "^4.17.3"
+  }
+}
